@@ -2,7 +2,7 @@
 
 An interactive 3D WebGL / Three.js digital twin of the **ColdChain IoT Monitoring Device** (Prototype V2), engineered from the physical prototype and system architecture specifications.
 
-![ColdChain IoT 3D Model](index.html)
+![ColdChain IoT 3D Model](preview.jpg)
 
 ---
 
